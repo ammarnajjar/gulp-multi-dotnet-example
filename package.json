@@ -1,0 +1,15 @@
+{
+  "name": "gulp-ng-dotnet",
+  "version": "0.1.0",
+  "description": "Automate dotnet ng projects with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ammar Najjar",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "4.0.0",
+    "gulp-dotnet": "2.0.0"
+  }
+}
