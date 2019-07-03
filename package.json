@@ -9,7 +9,7 @@
   "author": "Ammar Najjar",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "4.0.0",
+    "gulp": "4.0.2",
     "gulp-dotnet": "2.0.0"
   }
 }
